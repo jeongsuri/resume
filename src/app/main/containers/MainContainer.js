@@ -5,7 +5,6 @@ import TopMenu from '../components/TopMenu';
 import InfoAbout from '../components/InfoAbout';
 import Experience from '../components/Experience';
 import Portfolio from '../components/Portfolio';
-
 const options = {
   anchors: ['sectionOne', 'sectionTwo', 'sectionThree'],
 };
